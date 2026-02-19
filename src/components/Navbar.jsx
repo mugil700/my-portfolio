@@ -50,7 +50,8 @@ export default function Navbar() {
           <motion.a
             whileHover={{ rotate: 360, scale: 1.15 }}
             onMouseEnter={() => clickSound.play()}
-            href="www.linkedin.com/in/mugil700"
+            href="https://www.linkedin.com/in/mugil700/
+"
             target="_blank"
             rel="noreferrer"
           >
@@ -60,7 +61,7 @@ export default function Navbar() {
           <motion.a
             whileHover={{ rotate: 360, scale: 1.15 }}
             onMouseEnter={() => clickSound.play()}
-            href="https://twitter.com"
+            href="https://x.com/Mugilan700"
             target="_blank"
             rel="noreferrer"
           >
